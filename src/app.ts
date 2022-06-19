@@ -5,8 +5,8 @@ import { Update } from 'typegram';
 const bot: Telegraf<Context<Update>> = new Telegraf(process.env.BOT_TOKEN as string);
 
 bot.telegram.setMyCommands([
-    { command: 'Command 1', description: 'Descrizione Comando 1' } as BotCommand,
-    { command: 'Command 2', description: 'Descrizione Comando 2' } as BotCommand
+    { command: 'start', description: 'Descrizione Comando 1' } as BotCommand,
+    { command: 'help', description: 'Descrizione Comando 2' } as BotCommand
 ]);
 
 bot.start((ctx) => {
@@ -33,14 +33,6 @@ bot.command('keyboard', (ctx) => {
             Markup.button.callback('First option', 'first'),
             Markup.button.callback('Second option', 'second'),
         ])
-    );
-});
-
-bot.on('text', (ctx) => {
-    ctx.reply(
-        'You choose the ' +
-        (ctx.message.text === 'first' ? 'First' : 'Second') +
-        ' Option!'
     );
 });
 
