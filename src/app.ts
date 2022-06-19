@@ -1,6 +1,13 @@
 import { Context, Markup, Telegraf } from 'telegraf';
+import { BotCommand } from 'telegraf/typings/core/types/typegram';
 import { Update } from 'typegram';
+
 const bot: Telegraf<Context<Update>> = new Telegraf(process.env.BOT_TOKEN as string);
+
+bot.telegram.setMyCommands([
+    { command: 'Command 1', description: 'Descrizione Comando 1' } as BotCommand,
+    { command: 'Command 2', description: 'Descrizione Comando 2' } as BotCommand
+]);
 
 bot.start((ctx) => {
     ctx.reply('Hello ' + ctx.from.first_name + '!');
