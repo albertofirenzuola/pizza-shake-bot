@@ -1,0 +1,216 @@
+[{
+        "id": 1,
+        "name": "Pomodoro",
+        "category": "Base"
+    },
+    {
+        "id": 2,
+        "name": "Mozzarella",
+        "category": "Base"
+    },
+    {
+        "id": 3,
+        "name": "Prosciutto Cotto",
+        "category": "Affettati"
+    },
+    {
+        "id": 4,
+        "name": "Prosciutto Crudo",
+        "category": "Affettati"
+    },
+    {
+        "id": 5,
+        "name": "Bresaola",
+        "category": "Affettati"
+    },
+    {
+        "id": 6,
+        "name": "Pancetta",
+        "category": "Affettati"
+    },
+    {
+        "id": 7,
+        "name": "Porchetta",
+        "category": "Affettati"
+    },
+    {
+        "id": 8,
+        "name": "Salame",
+        "category": "Affettati"
+    },
+    {
+        "id": 9,
+        "name": "Salamino Piccante",
+        "category": "Affettati"
+    },
+    {
+        "id": 10,
+        "name": "Salsiccia",
+        "category": "Affettati"
+    },
+    {
+        "id": 11,
+        "name": "Speck",
+        "category": "Affettati"
+    },
+    {
+        "id": 12,
+        "name": "Wurstel",
+        "category": "Affettati"
+    },
+    {
+        "id": 13,
+        "name": "Funghi",
+        "category": "Verdura"
+    },
+    {
+        "id": 14,
+        "name": "Zucchine",
+        "category": "Verdura"
+    },
+    {
+        "id": 15,
+        "name": "Asparagi",
+        "category": "Verdura"
+    },
+    {
+        "id": 16,
+        "name": "Capperi",
+        "category": "Verdura"
+    },
+    {
+        "id": 17,
+        "name": "Carciofini",
+        "category": "Verdura"
+    },
+    {
+        "id": 18,
+        "name": "Cipolla",
+        "category": "Verdura"
+    },
+    {
+        "id": 19,
+        "name": "Mais",
+        "category": "Verdura"
+    },
+    {
+        "id": 20,
+        "name": "Melanzane",
+        "category": "Verdura"
+    },
+    {
+        "id": 21,
+        "name": "Olive",
+        "category": "Verdura"
+    },
+    {
+        "id": 22,
+        "name": "Patate",
+        "category": "Verdura"
+    },
+    {
+        "id": 23,
+        "name": "Peperoncino",
+        "category": "Verdura"
+    },
+    {
+        "id": 24,
+        "name": "Peperoni",
+        "category": "Verdura"
+    },
+    {
+        "id": 25,
+        "name": "Radicchio",
+        "category": "Verdura"
+    },
+    {
+        "id": 26,
+        "name": "Rucola",
+        "category": "Verdura"
+    },
+    {
+        "id": 27,
+        "name": "Mascarpone",
+        "category": "Formaggi"
+    },
+    {
+        "id": 28,
+        "name": "Grana",
+        "category": "Formaggi"
+    },
+    {
+        "id": 29,
+        "name": "Brie",
+        "category": "Formaggi"
+    },
+    {
+        "id": 30,
+        "name": "Fontina",
+        "category": "Formaggi"
+    },
+    {
+        "id": 31,
+        "name": "Gorgonzola",
+        "category": "Formaggi"
+    },
+    {
+        "id": 32,
+        "name": "Panna",
+        "category": "Formaggi"
+    },
+    {
+        "id": 33,
+        "name": "Philadelphia",
+        "category": "Formaggi"
+    },
+    {
+        "id": 34,
+        "name": "Scamorza",
+        "category": "Formaggi"
+    },
+    {
+        "id": 35,
+        "name": "Stracchino",
+        "category": "Formaggi"
+    },
+    {
+        "id": 36,
+        "name": "Cozze",
+        "category": "Pesce"
+    },
+    {
+        "id": 37,
+        "name": "Gamberetti",
+        "category": "Pesce"
+    },
+    {
+        "id": 38,
+        "name": "Acciughe",
+        "category": "Pesce"
+    },
+    {
+        "id": 39,
+        "name": "Calamari",
+        "category": "Pesce"
+    },
+    {
+        "id": 40,
+        "name": "Tonno",
+        "category": "Pesce"
+    },
+    {
+        "id": 41,
+        "name": "Vongole",
+        "category": "Pesce"
+    },
+    {
+        "id": 42,
+        "name": "Uovo",
+        "category": "Altro"
+    },
+    {
+        "id": 43,
+        "name": "Noci",
+        "category": "Altro"
+    }
+]
